@@ -1,0 +1,6 @@
+17-03024
+	done clearing a slider of signi and singnup
+	``` pending : form containers```
+18-03-24
+	done doing two form containers and hover buttons for login and signup
+	``` pending : erroer handlings for the input fields ```
